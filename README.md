@@ -24,3 +24,19 @@ Develop a user-friendly interface where loan officers can
 input borrower demographics, loan details, and bureau information (such as credit 
 utilization and open accounts) to obtain predictions on default probabilities and credit 
 ratings.
+
+# Workflow
+
+Dataset
+
+Data preprocessing
+
+Train Test split
+
+Model Training
+
+Fine Tuning
+
+Model Evaluation 
+
+Model deployment
