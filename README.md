@@ -8,7 +8,7 @@ Average, Good, and Excellent categories, based on criteria similar to the CIBIL 
 
 # Development and Implementation
 
-** Model Development:
+## Model Development:
 
 Build a predictive model using Lauki Finance’s dataset which 
 includes historical loan data and default indicators. 
