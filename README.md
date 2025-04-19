@@ -8,17 +8,17 @@ Average, Good, and Excellent categories, based on criteria similar to the CIBIL 
 
 # Development and Implementation
 
-## Model Development:
+### Model Development:
 
 Build a predictive model using Lauki Finance’s dataset which 
 includes historical loan data and default indicators. 
 
-Scorecard Creation: 
+### Scorecard Creation: 
 
 Develop a scoring system that categorizes credit scores into Poor, 
 Average, Good, and Excellent. 
 
-Streamlit UI Application: 
+### Streamlit UI Application: 
 
 Develop a user-friendly interface where loan officers can 
 input borrower demographics, loan details, and bureau information (such as credit 
